@@ -1,0 +1,8 @@
+web\controller\HelloController.class
+web\service\Service1.class
+web\config\AppInit.class
+web\models\Car.class
+web\config\WebConfig.class
+web\config\BeanConfig.class
+web\service\MyService.class
+web\controller\CarController.class
